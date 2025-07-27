@@ -76,4 +76,4 @@ Thumbs.db
 Desktop.ini
 
 # Docx temp files
-~$*.docx 
+~$*.docx .env
